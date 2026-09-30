@@ -17,7 +17,7 @@ A deep dive into **shortcut learning** (*Clever Hans* behavior) in Convolutional
 |---|---|---|
 | **Architecture** | 3→4→6→12 (conv) → 10 | 3→32→64→128 (conv) → 1152 → 10 |
 | **Easy Val Accuracy (In-Distribution)** | **97.5%** | **94.4%** |
-| **Hard Test Accuracy (Out-of-Distribution)** | **11.2%** (Collapse) | **~55.7% – 95.3%** (Robust) |
+| **Hard Test Accuracy (Out-of-Distribution)** | **11.2%** (Collapse) | **95.3%** (Robust) |
 | **Primary Learned Feature** | Spurious Color Cue | Geometric Digit Stroke |
 
 ---
