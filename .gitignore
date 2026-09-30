@@ -4,3 +4,4 @@ __pycache__/
 data/
 *.gz
 .DS_Store
+tas1_old.py
